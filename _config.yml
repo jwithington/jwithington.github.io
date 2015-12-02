@@ -15,7 +15,7 @@ google_verification:
 animated:             false
 show_related_posts:   false
 show_post_footers:    false
-show_social_icons:    true
+show_social_icons:    false
 ajaxify_contact_form: false
 
 # Disqus post comments
@@ -46,8 +46,8 @@ show_sharing_icons: false
 share_text: 'Share this post!'
 # Change to 'true' to enable individual icons
 share_facebook: false
-share_twitter: true
-share_googleplus: true
+share_twitter: false
+share_googleplus: false
 share_linkedin: false
 share_digg: false
 share_tumblr: false
