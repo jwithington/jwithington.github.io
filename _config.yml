@@ -2,9 +2,9 @@
 title:       Hard Like Algebra
 email:       xequalswtf@gmail.com
 author:      Jim Withington
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+description: "Because it's all about the music and art and people and....."
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://hardlikealgebra.com"
 date_format: "%b %-d, %Y"
 
 # Google services
@@ -15,7 +15,7 @@ google_verification:
 animated:             false
 show_related_posts:   false
 show_post_footers:    false
-show_social_icons:    false
+show_social_icons:    true
 ajaxify_contact_form: false
 
 # Disqus post comments
@@ -46,8 +46,8 @@ show_sharing_icons: false
 share_text: 'Share this post!'
 # Change to 'true' to enable individual icons
 share_facebook: false
-share_twitter: false
-share_googleplus: false
+share_twitter: true
+share_googleplus: true
 share_linkedin: false
 share_digg: false
 share_tumblr: false
