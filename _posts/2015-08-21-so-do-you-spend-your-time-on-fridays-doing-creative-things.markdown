@@ -4,7 +4,7 @@ title: So do you spend your time on Fridays doing creative things?
 date: '2015-08-21 21:57:27'
 ---
 
-![paulrus](/images/paulrus.jpg)
+![paulrus is dead](/images/paulrus.jpg)
 
 I'm in a particularly thinky place right now. Thinking about Portland and how it's changing / has changed. Thinking about me, where I've been, where I'm going.  Where has my writing gone, and what do I when I have down time? When am I happiest?  What keeps me from being great at things, from committing to the simple changes that have such a big impact on me? 
 
@@ -20,7 +20,7 @@ I can remember the feeling of biking across town to play Risk 2210, the way that
 
 Remember when the Zen Center was a short walk away?  I'd listen to Zen is Stupid (remember [that?][zis]) on the way there, and maybe on the way back, too (though the way back was often reserved for holding that quiet I'd just created for myself). Twice a year or so I'd go on silent retreat, help cut vegetables or move wood chips, eat formal meals, and steal away for at least [one americano](http://rockingfrogpdx.com/). I would get home and feel like nothing could affect me, that I could consider things as they came my way. I'd stop biting my nails for a time. I'd be there, fully, in all my conversations, spending time with Erin.
 
-![push button](/images/bikecrossing.jpg)
+![push button](/images/bike-crossing.jpg)
 
 Remember blogs?
 
