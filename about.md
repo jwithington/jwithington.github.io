@@ -1,10 +1,8 @@
 ---
 layout: page
-title: About
+title: About 
 permalink: /about/
 ---
-
-## About Me
 
 [This](http://jimwithington.com) is a good place to start.
 
