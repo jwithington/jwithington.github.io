@@ -20,7 +20,7 @@ I can remember the feeling of biking across town to play Risk 2210, the way that
 
 Remember when the Zen Center was a short walk away?  I'd listen to Zen is Stupid (remember [that?][zis]) on the way there, and maybe on the way back, too (though the way back was often reserved for holding that quiet I'd just created for myself). Twice a year or so I'd go on silent retreat, help cut vegetables or move wood chips, eat formal meals, and steal away for at least [one americano](http://rockingfrogpdx.com/). I would get home and feel like nothing could affect me, that I could consider things as they came my way. I'd stop biting my nails for a time. I'd be there, fully, in all my conversations, spending time with Erin.
 
-![push button](/content/images/2015/08/451143519_11a6a2bf5f_o.jpg)
+![push button](/images/bikecrossing.jpg)
 
 Remember blogs?
 
