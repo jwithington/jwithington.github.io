@@ -7,6 +7,34 @@
     <atom:link href="http://pixyll.com/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>So do you spend your time on Fridays doing creative things?</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/content/images/2015/08/3217483345_7c99b6609e_o.jpg&quot; alt=&quot;paulrus&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I’m in a particularly thinky place right now. Thinking about Portland and how it’s changing / has changed. Thinking about me, where I’ve been, where I’m going.  Where has my writing gone, and what do I when I have down time? When am I happiest?  What keeps me from being great at things, from committing to the simple changes that have such a big impact on me? &lt;/p&gt;
+
+&lt;p&gt;How is it that I can even procrastinate &lt;strong&gt;playing &lt;a href=&quot;https://www.telltalegames.com/gameofthrones/&quot;&gt;the next chapter&lt;/a&gt; of a video game&lt;/strong&gt; that I enjoy?&lt;/p&gt;
+
+&lt;p&gt;I explained my background a few times recently, and sometimes it sounds pretty great: education degree, art masters, crazy job teaching Acting for Animation, learning how to talk to students about their lives and help them thrive. Managing a team, even, so they could talk to students better than they had. &lt;/p&gt;
+
+&lt;p&gt;I’ve been thinking about how five years ago (!) I took the GRE and went to &lt;a href=&quot;http://www.umass.edu/juniperinstitute/institute.html&quot;&gt;Juniper&lt;/a&gt; and thought I’d get a poetry degree.  How ten years ago I started camping out in Portland coffeeshops, enamored of this little city that seemed to always have the Decemberists and &lt;em&gt;Transatlanticism&lt;/em&gt; playing, serving $1 cups of Hairbender. How four summers ago I was leaving InsideTrack, three summers ago we were leaving Lansing, two summers ago we were leaving Macomb, and last summer my job was leaving me behind. &lt;/p&gt;
+
+&lt;p&gt;The linearity of life sounds so simple when you’re telling someone something in a few paragraphs, a few minutes.&lt;/p&gt;
+
+&lt;p&gt;I can remember the feeling of biking across town to play Risk 2210, the way that I learned the path so well that I could do the less-hill-more-chill path to anywhere in northeast.  Remember &lt;a href=&quot;http://bycycle.org/&quot;&gt;Bycycle&lt;/a&gt;? Remember &lt;a href=&quot;http://www.portlandmercury.com/BlogtownPDX/archives/2010/04/15/breaking-half-and-half-to-close-in-downtown-portland&quot;&gt;Half and Half&lt;/a&gt; next to the old IPRC around the corner from the old Jackpot Records? I’d walk to the neighborhood during my lunch break and try and make myself better with the Believer (remember when it was monthly? remember &lt;a href=&quot;http://www.vol1brooklyn.com/2012/01/06/literary-schwag-the-believer-wants-you/&quot;&gt;all those Charles Burns covers&lt;/a&gt;?) and coffee and a record (remember when Jackpot had a tiny vinyl section, tightly curated) and walk back to work $10 or $20 lighter but not noticably worse.&lt;/p&gt;
+
+&lt;p&gt;Remember when the Zen Center was a short walk away?  I’d listen to Zen is Stupid (remember &lt;a href=&quot;http://www.maximumfun.org/blog/2008/06/podthoughts-by-colin-marshall-zen-is.html&quot;&gt;that?&lt;/a&gt;) on the way there, and maybe on the way back, too (though the way back was often reserved for holding that quiet I’d just created for myself). Twice a year or so I’d go on silent retreat, help cut vegetables or move wood chips, eat formal meals, and steal away for at least &lt;a href=&quot;http://rockingfrogpdx.com/&quot;&gt;one americano&lt;/a&gt;. I would get home and feel like nothing could affect me, that I could consider things as they came my way. I’d stop biting my nails for a time. I’d be there, fully, in all my conversations, spending time with Erin.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/content/images/2015/08/451143519_11a6a2bf5f_o.jpg&quot; alt=&quot;push button&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Remember blogs?&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 21 Aug 2015 21:57:27 -0700</pubDate>
+        <link>http://pixyll.com/2015/08/21/so-do-you-spend-your-time-on-fridays-doing-creative-things/</link>
+        <guid isPermaLink="true">http://pixyll.com/2015/08/21/so-do-you-spend-your-time-on-fridays-doing-creative-things/</guid>
+      </item>
+    
+      <item>
         <title>Announcing Version 2.0</title>
         <description>&lt;p&gt;In an effort to make Pixyll easier to customize and more aesthetically pleasing, we’ve release version &lt;code&gt;2.0&lt;/code&gt;.&lt;/p&gt;
 
@@ -64,47 +92,47 @@ works if &lt;del&gt;for some reason you need to update your post&lt;/del&gt;. Fo
 
 &lt;p&gt;Here’s an example of some ruby code with line anchors.&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;c1&quot;&gt;# The most awesome of classes&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;Awesome&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;ActiveRecord&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;::&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;Base&lt;/span&gt;
-  &lt;span class=&quot;kp&quot;&gt;include&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;EvenMoreAwesome&lt;/span&gt;
-
-  &lt;span class=&quot;n&quot;&gt;validates_presence_of&lt;/span&gt; &lt;span class=&quot;ss&quot;&gt;:something&lt;/span&gt;
-  &lt;span class=&quot;n&quot;&gt;validates&lt;/span&gt; &lt;span class=&quot;ss&quot;&gt;:email&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;ss&quot;&gt;email_format: &lt;/span&gt;&lt;span class=&quot;kp&quot;&gt;true&lt;/span&gt;
-
-  &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;initialize&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;email&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kp&quot;&gt;nil&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-    &lt;span class=&quot;nb&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;email&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;email&lt;/span&gt;
-    &lt;span class=&quot;nb&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;name&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;
-    &lt;span class=&quot;nb&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;favorite_number&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;12&lt;/span&gt;
-    &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&#39;created awesomeness&#39;&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-
-  &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;email_format&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;email&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=~&lt;/span&gt; &lt;span class=&quot;sr&quot;&gt;/\S+@\S+\.\S+/&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;a name=&quot;True-1&quot;&gt;&lt;/a&gt;&lt;span class=&quot;c1&quot;&gt;# The most awesome of classes&lt;/span&gt;
+&lt;a name=&quot;True-2&quot;&gt;&lt;/a&gt;&lt;span class=&quot;k&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;Awesome&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;ActiveRecord&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;::&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;Base&lt;/span&gt;
+&lt;a name=&quot;True-3&quot;&gt;&lt;/a&gt;  &lt;span class=&quot;kp&quot;&gt;include&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;EvenMoreAwesome&lt;/span&gt;
+&lt;a name=&quot;True-4&quot;&gt;&lt;/a&gt;
+&lt;a name=&quot;True-5&quot;&gt;&lt;/a&gt;  &lt;span class=&quot;n&quot;&gt;validates_presence_of&lt;/span&gt; &lt;span class=&quot;ss&quot;&gt;:something&lt;/span&gt;
+&lt;a name=&quot;True-6&quot;&gt;&lt;/a&gt;  &lt;span class=&quot;n&quot;&gt;validates&lt;/span&gt; &lt;span class=&quot;ss&quot;&gt;:email&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;ss&quot;&gt;email_format&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kp&quot;&gt;true&lt;/span&gt;
+&lt;a name=&quot;True-7&quot;&gt;&lt;/a&gt;
+&lt;a name=&quot;True-8&quot;&gt;&lt;/a&gt;  &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;initialize&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;email&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kp&quot;&gt;nil&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;a name=&quot;True-9&quot;&gt;&lt;/a&gt;    &lt;span class=&quot;nb&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;email&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;email&lt;/span&gt;
+&lt;a name=&quot;True-10&quot;&gt;&lt;/a&gt;    &lt;span class=&quot;nb&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;name&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;
+&lt;a name=&quot;True-11&quot;&gt;&lt;/a&gt;    &lt;span class=&quot;nb&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;favorite_number&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;12&lt;/span&gt;
+&lt;a name=&quot;True-12&quot;&gt;&lt;/a&gt;    &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;created awesomeness&amp;#39;&lt;/span&gt;
+&lt;a name=&quot;True-13&quot;&gt;&lt;/a&gt;  &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;a name=&quot;True-14&quot;&gt;&lt;/a&gt;
+&lt;a name=&quot;True-15&quot;&gt;&lt;/a&gt;  &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;email_format&lt;/span&gt;
+&lt;a name=&quot;True-16&quot;&gt;&lt;/a&gt;    &lt;span class=&quot;n&quot;&gt;email&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=~&lt;/span&gt; &lt;span class=&quot;sr&quot;&gt;/\S+@\S+\.\S+/&lt;/span&gt;
+&lt;a name=&quot;True-17&quot;&gt;&lt;/a&gt;  &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;a name=&quot;True-18&quot;&gt;&lt;/a&gt;&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
 &lt;p&gt;Here’s some CSS:&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-css&quot; data-lang=&quot;css&quot;&gt;&lt;span class=&quot;nc&quot;&gt;.foobar&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-css&quot; data-lang=&quot;css&quot;&gt;&lt;span class=&quot;nc&quot;&gt;.foobar&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
   &lt;span class=&quot;c&quot;&gt;/* Named colors rule */&lt;/span&gt;
-  &lt;span class=&quot;nl&quot;&gt;color&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;tomato&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+  &lt;span class=&quot;k&quot;&gt;color&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;tomato&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
 &lt;p&gt;Here’s some JavaScript:&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;isPresent&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;require&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;is-present&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;isPresent&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;require&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;is-present&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 
 &lt;span class=&quot;nx&quot;&gt;module&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;exports&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;doStuff&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;things&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
   &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;isPresent&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;things&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
     &lt;span class=&quot;nx&quot;&gt;doOtherStuff&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;things&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
   &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
 &lt;p&gt;Here’s some HTML:&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;m0 p0 bg-blue white&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;h3&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;h1&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Hello, world!&lt;span class=&quot;nt&quot;&gt;&amp;lt;/h3&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;m0 p0 bg-blue white&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;h3&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;h1&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Hello, world!&lt;span class=&quot;nt&quot;&gt;&amp;lt;/h3&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
 &lt;h1 id=&quot;headings&quot;&gt;Headings!&lt;/h1&gt;
 
@@ -212,6 +240,159 @@ and &lt;a href=&quot;http://en.wikipedia.org/wiki/Textile_(markup_language)&quot
         <pubDate>Sun, 08 Jun 2014 04:21:29 -0700</pubDate>
         <link>http://pixyll.com/jekyll/pixyll/2014/06/08/pixyll-has-pagination/</link>
         <guid isPermaLink="true">http://pixyll.com/jekyll/pixyll/2014/06/08/pixyll-has-pagination/</guid>
+      </item>
+    
+      <item>
+        <title>Everything is Impermanent</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://dharma-rain.org/&quot;&gt;Dharma Rain&lt;/a&gt; is progressing on their plans to move to a new home right now, and it’s shaking me up more than I’d have expected.&lt;/p&gt;
+
+&lt;p&gt;I first got into Buddhism (via &lt;a href=&quot;http://www.powells.com/biblio/1-9780764553592-15&quot;&gt;Buddhism for Dummies&lt;/a&gt;, which I still maintain is a great intro book) when I was teaching full-time and felt like a failure who had too much work and not enough…something. Expertise, maybe. Desire to teach. Or even just time. It comes back to anxiety about time over and over, but that’s another entry.&lt;/p&gt;
+
+&lt;p&gt;My real dedication to Zen in particular came during another tough job. Two months in to that one I knew I needed to make a change to get through all of the…angst is a word that the nineties ruined but maybe that’s it? All of the stress and pent-up, “oh god this is a lot,” perhaps?  I knew I needed a change and I was in Portland and an internet friend recommended Dharma Rain and off I went. I took an intro class and then I settled in to a routine of attending Wednesday nights; somehow Zen night made a lot more sense than Sunday service did. I loved the dharma talks on Sundays but the discussion classes on Wednesday—and the fact that it was at night—fit me more. &lt;/p&gt;
+
+&lt;p&gt;There were times when I “went to Zen” every single week, and times when there were months (once, maybe even a year) in between visits. Always smiles though, always “we wondered” or just “welcome back,” instead of admonishments or guilt trips that marred the Catholicism of my youth. I mention this a lot whenever I explain my involvement to folks who don’t know about Zen but are curious—the sense of “hey! good to see you!” comes through at Dharma Rain. It motivates folks to return, too, I imagine.  &lt;/p&gt;
+
+&lt;p&gt;After all, everything is impermanent, we all have our own paths, and sometimes that path takes us in another direction.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;I’m finding it difficult to read the &lt;a href=&quot;https://s3-us-west-2.amazonaws.com/siskiyou-milestones/Moving+Milestones.pdf&quot;&gt;moving milestones&lt;/a&gt; without feeling lost. I left Portland in 2011; it was in fall of 2012 when we moved to Macomb with about $100 to spare that I finally stopped contributing my (paltry) $15/month to the center. Dharma Rain, this practice, meditation, thinking about the precepts, working towards mindfulness, not working but just embracing mindfulness…it all makes me a better me.  Place matters to me. We lose this place soon.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;I don’t talk about Buddhism much; certainly not publicly, not in a way that can be traced to my name and my face and my life. During a beginner’s retreat, &lt;a href=&quot;http://dharma-rain.org/tag/kyogen/&quot;&gt;the co-abbot&lt;/a&gt; at Dharma Rain asked me about my Catholic family and how they felt about my taking the precepts to become a Buddhist. “I don’t know!” I said, chuckling a bit. “I never told them!”  &lt;/p&gt;
+
+&lt;p&gt;The entire class of people roared at that. For the most part, that lack of knowledge still lingers. I’m 36 now and I couldn’t tell you why it’s still something I can’t bring up with them, but it is.&lt;/p&gt;
+
+&lt;p&gt;Anyway, I don’t talk about it much. Part of it is that it is something that feels sacred to me in a world where many of my friends don’t embrace that sort of thing. I spent years in punk rock, too; I had my own break with my upbringing more than 15 years ago, now. I have many more friends that think going to church is odd than friends that go to church. Portland “gets” Buddhism more than it gets Christianity, but still it’s true that not everyone understands.&lt;/p&gt;
+
+&lt;p&gt;I also don’t talk about it much because it is one area of my life where I stay quiet a lot. In the many Wednesday classes I’ve attended, I’ve probably raised my hand to answer something only once, maybe twice. I don’t have anyone in my life that I know from the Zen Center that has become a friend outside of the Zen Center. Practicing—really committing to—Zen meditation has a profound effect on my happiness and, especially, the happiness of the people in my life. I think that the quiet that it gives me sometimes—and the space between anger and lashing out—saved my relationship more than once. &lt;/p&gt;
+
+&lt;p&gt;And yet I find it hard, quite often, to call myself a Buddhist.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The Zen Center is being sold and the Dharma House is being sold and the new building plans are moving slowly in comparison and the lack of home on the horizon is evident and the final (ever) service in the zendo is scheduled for June and when I type that and when I think about that and when I feel about that it hits me in the stomach, and then I begin to almost cry (and most of this sentence shows awareness I never had before learning about awareness at Dharma Rain). &lt;/p&gt;
+
+&lt;p&gt;Because something is lost that will not come back in the same way.
+Because everything is impermanent, even decades old &lt;a href=&quot;http://en.wikipedia.org/wiki/Sangha&quot;&gt;sanghas&lt;/a&gt;.
+Because &lt;a href=&quot;http://dharma-rain.org/a-quantum-theory-of-dharmas/&quot;&gt;life is marked by “unsatisfactoriness”&lt;/a&gt;, yet knowing that still does not make it easy.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm4.staticflickr.com/3131/2350332641_d9720a152d_z.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Soundtrack to this entry: &lt;a href=&quot;http://pitchfork.com/reviews/albums/15809-a-winged-victory-for-the-sullen/&quot;&gt;A Winged Victory For the Sullen&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 07 Mar 2014 02:33:33 -0800</pubDate>
+        <link>http://pixyll.com/2014/03/07/everything-is-impermanent/</link>
+        <guid isPermaLink="true">http://pixyll.com/2014/03/07/everything-is-impermanent/</guid>
+      </item>
+    
+      <item>
+        <title>Support your (nonlocal) opening bands</title>
+        <description>&lt;p&gt;I went to an emo show over the weekend and against my better &lt;a href=&quot;#fn:1&quot; id=&quot;fnref:1&quot; title=&quot;see footnote&quot; class=&quot;footnote&quot;&gt;[1]&lt;/a&gt; judgment, I did something I haven&amp;#8217;t done in &lt;strong&gt;years&lt;/strong&gt;: I bought some music from each of the openers. &lt;/p&gt;
+
+&lt;p&gt;This was notable for a few reasons:&lt;br /&gt;
+ - When was the last time you went to a show and liked all (three) of the openers?&lt;br /&gt;
+ - When was the last time that three bands prices their stuff reasonably enough to pull that off without breaking the bank?&lt;br /&gt;
+ - Seriously though, three good opening bands! &lt;a href=&quot;#fn:2&quot; id=&quot;fnref:2&quot; title=&quot;see footnote&quot; class=&quot;footnote&quot;&gt;[2]&lt;/a&gt;&lt;br /&gt;
+ - Emo show &lt;/p&gt;
+
+&lt;p&gt;Yep, people are deeming 2013 the &lt;a href=&quot;http://www.chicagoreader.com/chicago/emo-twiabp-topshelf-swerp-capn-jazz-midwestern-braid-reflex/Content?oid=10550897&quot;&gt;year of emo coming back&lt;/a&gt;. For me that makes it&amp;#8217;s the year that I realized how much fun I had with those late&amp;#8211;90s bands and oh, wow, bands are still playing this stuff. &lt;/p&gt;
+
+&lt;p&gt;It all happened because of Instagram and &lt;a href=&quot;http://intoitoverit.com&quot;&gt;Into It, Over It&lt;/a&gt;. A bunch of the vinyl dudes I follow started posting about how excited they were for the new IIOI album and I checked it out, ordered it on splatter vinyl, and played the hell out of the album for months. &lt;/p&gt;
+
+&lt;p&gt;IIOI headlined the show this weekend. I went to the show solo, and enjoyed it. It wasn&amp;#8217;t the &lt;em&gt;best&lt;/em&gt; show, but I found something I loved in each of the bands (Kittyhawk, A Great Big Pile of Leaves, and The World is a Beautiful Place and I am No Longer Afraid to Die). &lt;/p&gt;
+
+&lt;p&gt;I have to admit: when a band can only be abbreviated TWIABPAIANLATD, something hits me wrong. &lt;/p&gt;
+
+&lt;p&gt;But they &lt;strong&gt;brought it&lt;/strong&gt;. &lt;/p&gt;
+
+&lt;p&gt;The crowd was &lt;strong&gt;way&lt;/strong&gt; into it, and singing along. All the emo trappings were there: ranty spoken word dude, layers of noodly guitar, yawping-crackle vocals, that air of &amp;#8220;you don&amp;#8217;t get me, the world does not get me.&amp;#8221; But it all &lt;em&gt;worked&lt;/em&gt;. &lt;/p&gt;
+
+&lt;p&gt;Again, I suppose. &lt;/p&gt;
+
+&lt;p&gt;And then tonight happened. I had a mostly crappy end of my day, mostly due to not getting enough sleep. I had a few tasks to do for work before I finally quit working for the day, and I consciously thought, &amp;#8220;you know, this used to work. This used to help. Let&amp;#8217;s try again.&amp;#8221; &lt;/p&gt;
+
+&lt;p&gt;These emo bands, these guys, they are not always the right thing, but when they are the right thing, it is me, at the desk, closing my eyes, feeling the song all the way down to my fingertips, wondering how it was that i did anything but watch this band for all that they do when I saw them the other night. Why did I waste time standing off to the side, earplugs in, filming them with my stupid phone? I should have been pushing ahead, as close as I could get, feeling the wave with everyone else, singing along: &lt;/p&gt;
+
+&lt;p&gt;*The world is a beautiful place but we have to make it that way. Whenever you find home we&amp;#8217;ll make it more than just a shelter. And if everyone belongs there it will hold us all together. If you&amp;#8217;re afraid to die, then so am I.&amp;quot; &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/0Kz2GxSUzbfAFce-TcPh024Do-2swRTWMsbJz9ma8wwb=w1834-h1038-no&quot; alt=&quot;&quot; /&gt;
+&amp;lt;div class=&quot;footnotes&quot;&amp;gt;&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;ol&gt;
+
+&lt;li id=&quot;fn:1&quot;&gt;
+&lt;p&gt;Read: financial  &lt;a href=&quot;#fnref:1&quot; title=&quot;return to article&quot; class=&quot;reversefootnote&quot;&gt;&amp;#160;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li id=&quot;fn:2&quot;&gt;
+&lt;p&gt;Good work, &lt;a href=&quot;http://bottomlounge.com/&quot;&gt;Bottom Lounge&lt;/a&gt;!  &lt;a href=&quot;#fnref:2&quot; title=&quot;return to article&quot; class=&quot;reversefootnote&quot;&gt;&amp;#160;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;/ol&gt;
+&lt;p&gt;&amp;lt;/div&amp;gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 05 Mar 2014 03:57:59 -0800</pubDate>
+        <link>http://pixyll.com/2014/03/05/support-your-nonlocal-opening-bands/</link>
+        <guid isPermaLink="true">http://pixyll.com/2014/03/05/support-your-nonlocal-opening-bands/</guid>
+      </item>
+    
+      <item>
+        <title>That&#39;s Great Ray, Save Some For Me</title>
+        <description>&lt;p&gt;Harold Ramis &lt;a href=&quot;http://articles.chicagotribune.com/2014-02-24/entertainment/chi-harold-ramis-dead-20140224_1_harold-ramis-chicago-actor-second-city&quot;&gt;died yesterday&lt;/a&gt;, and, well, I&amp;#8217;m not usually one to comment on celebrity deaths, especially not in a blog form. &lt;/p&gt;
+
+&lt;p&gt;But the thing about Egon was that he lived in Skokie during the years when I was at Northwestern, and he even sometimes &lt;a href=&quot;http://www.northwestern.edu/residentialcolleges/documents/article.pdf&quot;&gt;came to campus and gave fireside chats&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Now, the caption in that .pdf says that he was at Shepard, and I guess that&amp;#8217;s possible, but I seem to remember him visiting &lt;a href=&quot;http://www.northwestern.edu/stuaff/jones/constitution.html&quot;&gt;the dorm&lt;/a&gt; that I lived in. &lt;a href=&quot;#fn:1&quot; id=&quot;fnref:1&quot; title=&quot;see footnote&quot; class=&quot;footnote&quot;&gt;[1]&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;And I also feel like the two people sitting nearest him in that photo are my freshman year girlfriend my freshman year roommate, so there&amp;#8217;s that. I was definitely there! And I am definitely bad at timelines (which at least one of you will point out if, in fact, you were actually there).&lt;/p&gt;
+
+&lt;p&gt;I remember him being &lt;strong&gt;so&lt;/strong&gt; funny. But also very genuine, and really nice, and real. I might have even asked him a question. That night decided I had missed out on seeing &lt;em&gt;Stripes&lt;/em&gt; (still have, though I might watch it now). He signed an autograph for me on a piece of steno paper, and that was that. &lt;/p&gt;
+
+&lt;p&gt;These events are lenses into personal history, aren&amp;#8217;t they? I never knew that tonight I&amp;#8217;d be crawling through the &lt;a href=&quot;http://web.archive.org/web/*/http://pubweb.acns.nwu.edu/*&quot;&gt;pub.acns.nwu.edu archives&lt;/a&gt; to see if I could find my dorm site, or my own site, or &lt;a href=&quot;http://web.archive.org/web/19990117032625/http://pubweb.acns.nwu.edu/%7Edjf835/jesters.html&quot;&gt;the site of the band&lt;/a&gt;&lt;a href=&quot;http://web.archive.org/web/19981203105651/http://www.drithle.com/jesters/&quot;&gt;I used to play in&lt;/a&gt;. Heck, I got excited just thinking of &amp;#8220;pub.acns.nwu.edu&amp;#8221; again.&lt;a href=&quot;#fn:2&quot; id=&quot;fnref:2&quot; title=&quot;see footnote&quot; class=&quot;footnote&quot;&gt;[2]&lt;/a&gt; &lt;/p&gt;
+
+&lt;p&gt;There are traces of us all over the place. There are things to remember, and people to celebrate. Tonight it was Ramis, and a little bit of a &lt;a href=&quot;http://et.stok.ca/articles/550-31.html&quot;&gt;professor I knew back then, too&lt;/a&gt;, yet another accidental discovery.&lt;/p&gt;
+
+&lt;p&gt;P.S. Archives, man. &lt;a href=&quot;http://web.archive.org/web/19991002053629/http://www.nwu.edu/numb/1996/Sections/tenor.html&quot;&gt;Archives&lt;/a&gt;. &lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+&lt;hr /&gt;
+&lt;ol&gt;
+
+&lt;li id=&quot;fn:1&quot;&gt;
+&lt;p&gt;This is the oldest page from Jones that I could track down that still had people that I knew listed on it.  &lt;a href=&quot;#fnref:1&quot; title=&quot;return to article&quot; class=&quot;reversefootnote&quot;&gt;&amp;#160;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li id=&quot;fn:2&quot;&gt;
+&lt;p&gt;&lt;code&gt;telnet pine jrw150&lt;/code&gt; &lt;a href=&quot;#fnref:2&quot; title=&quot;return to article&quot; class=&quot;reversefootnote&quot;&gt;&amp;#160;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Wed, 26 Feb 2014 02:31:55 -0800</pubDate>
+        <link>http://pixyll.com/2014/02/26/thats-great-ray-save-some-for-me/</link>
+        <guid isPermaLink="true">http://pixyll.com/2014/02/26/thats-great-ray-save-some-for-me/</guid>
+      </item>
+    
+      <item>
+        <title>Kicking the Tires</title>
+        <description>&lt;h2 id=&quot;hello-world&quot;&gt;Hello World&lt;/h2&gt;
+
+&lt;p&gt;I’m trying something new around here. Still kicking the tires and picking options. &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://hardlikealgebra.wordpress.com&quot;&gt;Here’s the archive&lt;/a&gt; for the old blog.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://24.media.tumblr.com/tumblr_m9mzzuddLa1r81enuo1_500.gif&quot;&gt;Long live&lt;/a&gt; the new.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 16 Jan 2014 17:38:24 -0800</pubDate>
+        <link>http://pixyll.com/2014/01/16/kicking-the-tires/</link>
+        <guid isPermaLink="true">http://pixyll.com/2014/01/16/kicking-the-tires/</guid>
       </item>
     
   </channel>
