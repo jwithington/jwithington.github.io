@@ -4,7 +4,7 @@ title: So do you spend your time on Fridays doing creative things?
 date: '2015-08-21 21:57:27'
 ---
 
-![paulrus](/content/images/2015/08/3217483345_7c99b6609e_o.jpg)
+![paulrus](/images/paulrus.jpg)
 
 I'm in a particularly thinky place right now. Thinking about Portland and how it's changing / has changed. Thinking about me, where I've been, where I'm going.  Where has my writing gone, and what do I when I have down time? When am I happiest?  What keeps me from being great at things, from committing to the simple changes that have such a big impact on me? 
 
