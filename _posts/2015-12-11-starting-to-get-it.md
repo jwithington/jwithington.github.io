@@ -3,6 +3,7 @@ layout: post
 title: Starting to *get* it
 ---
 I'm working over on [freecodecamp][fcc] now, learning JavaScript with a few goals:
+
 - finish their program in Front End, Full Stack, and soon, [Data Visualization and Backend][fccmed] work
 - work on their non-profit projects (for a better world!) so that 
 - I can build projects that help me get work in the field (for a better me!)
