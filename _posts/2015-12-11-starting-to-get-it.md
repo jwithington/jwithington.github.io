@@ -8,7 +8,7 @@ I'm working over on [freecodecamp][fcc] now, learning JavaScript with a few goal
 - work on their non-profit projects (for a better world!) so that 
 - I can build projects that help me get work in the field (for a better me!)
 
-Today, I was working on one of their algorithm challenges ([Bonfires][bon], in [FCC][fcc]-speak). It's [an exercise in truncating strings][trunc] that I'd started last night and had some success with, but I'd set it down to work on it today.
+Today, I was working on one of their algorithm challenges ([Bonfires][bon], in [FCC][fcc]-speak). It's [an exercise in truncating strings][trunc] that I'd started last night and had some success with, but I'd set it down to work on it today (and because Erin and I wanted to watch some *Casual*, which is a Show I Have Mixed Feelings About But Still Is Worth Watching).
 
 I was able to figure it out in a way that made me really feel like I'm starting to *get* this. Not just parroting what others show me; really building my skills. It's a rush, and it's really exciting.
 
