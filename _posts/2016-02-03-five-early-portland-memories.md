@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Five Early Portland Memories
-excerpt: 1.  Gladstone apartment mornings. Always looking for the Harold bus to get to work. 
+excerpt: 1.  Gladstone apartment mornings. Always looking for the Harold bus to get to work. Make sure to walk Wrigley, eat some breakfast. 
 ---
 
 <img src="https://farm1.staticflickr.com/21/26410870_b790044036_z.jpg?zz=1" width="640" height="480" alt="what up internet jack.">
