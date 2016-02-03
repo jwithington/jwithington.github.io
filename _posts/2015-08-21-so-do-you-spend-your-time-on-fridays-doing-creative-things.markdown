@@ -2,17 +2,18 @@
 layout: post
 title: So do you spend your time on Fridays doing creative things?
 date: '2015-08-21 21:57:27'
+excerpt: I'm in a particularly thinky place right now. Thinking about Portland and how it's changing / has changed. Thinking about me, where I've been, where I'm going.  Where has my writing gone, and what do I when I have down time?
 ---
 
 ![paulrus is dead](/images/paulrus.jpg)
 
-I'm in a particularly thinky place right now. Thinking about Portland and how it's changing / has changed. Thinking about me, where I've been, where I'm going.  Where has my writing gone, and what do I when I have down time? When am I happiest?  What keeps me from being great at things, from committing to the simple changes that have such a big impact on me? 
+I'm in a particularly thinky place right now. Thinking about Portland and how it's changing / has changed. Thinking about me, where I've been, where I'm going.  Where has my writing gone, and what do I when I have down time? When am I happiest?  What keeps me from being great at things, from committing to the simple changes that have such a big impact on me?
 
 How is it that I can even procrastinate **playing [the next chapter][got] of a video game** that I enjoy?
 
-I explained my background a few times recently, and sometimes it sounds pretty great: education degree, art masters, crazy job teaching Acting for Animation, learning how to talk to students about their lives and help them thrive. Managing a team, even, so they could talk to students better than they had. 
+I explained my background a few times recently, and sometimes it sounds pretty great: education degree, art masters, crazy job teaching Acting for Animation, learning how to talk to students about their lives and help them thrive. Managing a team, even, so they could talk to students better than they had.
 
-I've been thinking about how five years ago (!) I took the GRE and went to [Juniper][juniper] and thought I'd get a poetry degree.  How ten years ago I started camping out in Portland coffeeshops, enamored of this little city that seemed to always have the Decemberists and *Transatlanticism* playing, serving $1 cups of Hairbender. How four summers ago I was leaving InsideTrack, three summers ago we were leaving Lansing, two summers ago we were leaving Macomb, and last summer my job was leaving me behind. 
+I've been thinking about how five years ago (!) I took the GRE and went to [Juniper][juniper] and thought I'd get a poetry degree.  How ten years ago I started camping out in Portland coffeeshops, enamored of this little city that seemed to always have the Decemberists and *Transatlanticism* playing, serving $1 cups of Hairbender. How four summers ago I was leaving InsideTrack, three summers ago we were leaving Lansing, two summers ago we were leaving Macomb, and last summer my job was leaving me behind.
 
 The linearity of life sounds so simple when you're telling someone something in a few paragraphs, a few minutes.
 
