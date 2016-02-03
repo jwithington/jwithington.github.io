@@ -2,9 +2,8 @@
 layout: post
 title: Five Early Portland Memories
 ---
-# Five early Portland memories
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/falsefridays/26410870/in/photolist-3ktTc-3kn2Q-3kn2T-3kn2S-3kmkx-3jsyF-3jsnP-3jsnQ-3jsnR-3iAsv-3iAsu-3hn9h-3fRbr-3fRbt-3fRbu-3fRbs-3eH41-3eH3Z-3bfHZ-3bfHY-3bfHX-3bfJ1-3bfJ2-39ZMw-39ZMv-38AQC-38AQB-37bJD-37bJz-37bJB-37bJy-36r4t-36r4u-36r4v-35Hdk-35Ffm-35Ffo-35Ffk-35Ffn-32Kzy-32KzC-32KzB-32Kzz-328Ww-3296m-31WZu-31WZr-31WZs-31WZv-2Sd6Y/" title="what up internet jack."><img src="https://farm1.staticflickr.com/21/26410870_b790044036_z.jpg?zz=1" width="640" height="480" alt="what up internet jack."></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="https://farm1.staticflickr.com/21/26410870_b790044036_z.jpg?zz=1" width="640" height="480" alt="what up internet jack.">
 
 1.  Gladstone apartment mornings. Always looking for the Harold bus to get to work.  Make sure to walk Wrigley, eat some breakfast. Call the Trimet line to see when the 10 will arrive. Sometimes look out the window, see the bus pull up, still get there in time.
 
