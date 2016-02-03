@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Five Early Portland Memories
-excerpt: 1.  Gladstone apartment mornings. Always looking for the Harold bus to get to work. Make sure to walk Wrigley, eat some breakfast. 
+excerpt: 1.  Gladstone apartment mornings. Always looking for the Harold bus to get to work. Make sure to walk Wrigley, eat some breakfast.
 ---
 
 <img src="https://farm1.staticflickr.com/21/26410870_b790044036_z.jpg?zz=1" width="640" height="480" alt="what up internet jack.">
@@ -15,3 +15,7 @@ excerpt: 1.  Gladstone apartment mornings. Always looking for the Harold bus to 
 4. On the phone with Erin. I'm looking for my first ever solo apartment, because she's planning to live and work in Portland for the summer. I've never signed a real lease. I'm going to plan to pay for it myself, just in case. She tells me that if I can afford it, go ahead and get something. We ended up there for over 2 years.
 
 5. I've got a temp job doing taxes for folks, or rather, printing and assembling documents for them.  It's a process that involves spreading the documents put in a particular way, all the way across a very long counter, and then stapling them into a folder. I see Ursala K LeGuinn is one of their clients. Every time I'm ever looking for work again, I think of this job, of the joy of podcasts all day and the rhythm of stapling and how much it felt like good, hard, honest, appreciated work.
+
+<p>
+<img src="http://farm1.staticflickr.com/21/26065809_659148449a_z.jpg">
+</p>
