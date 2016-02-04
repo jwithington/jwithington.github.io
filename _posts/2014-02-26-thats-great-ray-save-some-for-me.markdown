@@ -8,7 +8,7 @@ date: '2014-02-26 02:31:55'
 
 <p>But the thing about Egon was that he lived in Skokie during the years when I was at Northwestern, and he even sometimes <a href="http://www.northwestern.edu/residentialcolleges/documents/article.pdf">came to campus and gave fireside chats</a>.</p>
 
-<p>Now, the caption in that .pdf says that he was at Shepard, and I guess that&#8217;s possible, but I seem to remember him visiting <a href="http://www.northwestern.edu/stuaff/jones/constitution.html">the dorm</a> that I lived in. <a href="#fn:1" id="fnref:1" title="see footnote" class="footnote">[1]</a></p>
+<p>Now, the caption in that .pdf says that he was at Shepard, and I guess that&#8217;s possible, but I seem to remember him visiting <a href="http://nu-jonesrc.weebly.com/about.html">the dorm</a> that I lived in. <a href="#fn:1" id="fnref:1" title="see footnote" class="footnote">[1]</a></p>
 
 <p>And I also feel like the two people sitting nearest him in that photo are my freshman year girlfriend my freshman year roommate, so there&#8217;s that. I was definitely there! And I am definitely bad at timelines (which at least one of you will point out if, in fact, you were actually there).</p>
 

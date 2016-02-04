@@ -27,5 +27,5 @@ Remember blogs?
 
 [zis]:http://www.maximumfun.org/blog/2008/06/podthoughts-by-colin-marshall-zen-is.html
 [got]:https://www.telltalegames.com/gameofthrones/
-[juniper]: http://www.umass.edu/juniperinstitute/institute.html
+[juniper]: http://www.umass.edu/juniperinstitute/#/institute/about
 [covers]: http://www.vol1brooklyn.com/2012/01/06/literary-schwag-the-believer-wants-you/
