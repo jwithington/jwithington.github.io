@@ -2,7 +2,7 @@
 layout: post
 title: Support your (nonlocal) opening bands
 date: '2014-03-05 03:57:59'
-excerpt: I went to an emo show over the weekend and against my better judgment, I did something I haven’t done in **years**: I bought some music from each of the openers.
+excerpt: I went to an emo show over the weekend and against my better judgment, I did something I haven’t done in years — I bought some music from each of the openers.
 ---
 
 <p>I went to an emo show over the weekend and against my better <a href="#fn:1" id="fnref:1" title="see footnote" class="footnote">[1]</a> judgment, I did something I haven&#8217;t done in <strong>years</strong>: I bought some music from each of the openers. </p>
