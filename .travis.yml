@@ -1,8 +1,9 @@
 language: ruby
 rvm:
- - "1.8.7"
- - "1.9.2"
- - "1.9.3"
- - rbx
-# uncomment this line if your project needs to run something other than `rake`:
-# script: bundle exec rspec spec
+  - 2.1
+script:
+  - bundle exec jekyll build
+  - bundle exec htmlproof ./_site --only-4xx --check-favicon --check-html
+env:
+  global:
+    - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
