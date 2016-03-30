@@ -31,7 +31,7 @@ excerpt: I went to an emo show over the weekend and against my better judgment, 
 
 <p>These emo bands, these guys, they are not always the right thing, but when they are the right thing, it is me, at the desk, closing my eyes, feeling the song all the way down to my fingertips, wondering how it was that i did anything but watch this band for all that they do when I saw them the other night. Why did I waste time standing off to the side, earplugs in, filming them with my stupid phone? I should have been pushing ahead, as close as I could get, feeling the wave with everyone else, singing along: </p>
 
-<p>The world is a beautiful place but we have to make it that way. Whenever you find home we&#8217;ll make it more than just a shelter. And if everyone belongs there it will hold us all together. If you&#8217;re afraid to die, then so am I.&quot; </p>
+<p>&quot;The world is a beautiful place but we have to make it that way. Whenever you find home we&#8217;ll make it more than just a shelter. And if everyone belongs there it will hold us all together. If you&#8217;re afraid to die, then so am I.&quot; </p>
 !["The World is a Beautiful Place and I Am No Longer Afraid to Die performs at Bottom Lounge in Chicago"](https://lh6.googleusercontent.com/0Kz2GxSUzbfAFce-TcPh024Do-2swRTWMsbJz9ma8wwb=w1834-h1038-no)
 <div class="footnotes">
 <hr />
