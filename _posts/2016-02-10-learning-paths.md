@@ -1,7 +1,7 @@
 ---
 layout: post
 title: On Learning Paths and Plans
-excerpt: >I'm learning to code. I've learned a lot about coding! I'm learning Ruby on Rails. I'm writing an RSS app. I'm mostly learning JavaScript right now. I think I'm going to check out React.
+excerpt: I'm learning to code. I've learned a lot about coding! I'm learning Ruby on Rails. I'm writing an RSS app. I'm mostly learning JavaScript right now. I think I'm going to check out React.
 
 ---
 # On learning plans and paths

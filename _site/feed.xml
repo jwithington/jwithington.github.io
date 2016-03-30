@@ -7,12 +7,145 @@
     <atom:link href="http://hardlikealgebra.com/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>On Learning Paths and Plans</title>
+        <description>&lt;h1 id=&quot;on-learning-plans-and-paths&quot;&gt;On learning plans and paths&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I’m learning to code.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I’ve learned a lot about coding!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I’m learning Ruby on Rails.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I’m writing an RSS app.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I’m mostly learning JavaScript right now.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I think I’m going to check out React.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;I’ve been saying these sorts of things for over a year now.  In between, I got a job at the place I described to people (including my mom) as &lt;a href=&quot;http://teamtreehouse.com&quot;&gt;the place in Portland I’d most like to work&lt;/a&gt;. I met a ton of people, enjoyed the &lt;a href=&quot;http://www.theatlantic.com/video/index/396527/case-32-hour-workweek/&quot;&gt;four day work week&lt;/a&gt; and then lost my job.&lt;/p&gt;
+
+&lt;p&gt;It wasn’t a developer job. I tell people that a lot, at Meetups — &lt;em&gt;no no, don’t be impressed&lt;/em&gt;, it was a customer support-ish job. It was a sales job.  It wasn’t the kind of job that you want to hear about. Really.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;This new round of unemployment caused me to find &lt;a href=&quot;http://freecodecamp.com/jwithington&quot;&gt;Free Code Camp&lt;/a&gt;. I love their philosophy, the rigor of learning sorta-solo, and the fact that I had to &lt;em&gt;just figure it out&lt;/em&gt; a whole lot.&lt;/p&gt;
+
+&lt;p&gt;I’ve also stalled out for a few weeks now. I think it’s because coding solo can be scary!  It can be very hard to feel like you accomplished anything when you are trying to build a JavaScript calculator from scratch and but you have no idea what that actually entails.&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;So then I ended up getting some free months at Pluralsight (that was awesome) and I’ve been learning more on Treehouse (they are still great) and I’ve also signed up on a few &lt;a href=&quot;http://www.wayfindingacademy.org/&quot;&gt;awesome&lt;/a&gt; &lt;a href=&quot;http://www.hackoregon.org/&quot;&gt;projects&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;And yet.&lt;/p&gt;
+
+&lt;p&gt;And yet I feel like I have this whole cloud of learning that I’m trying to attack all at once, and in the meantime I’m not &lt;a href=&quot;http://skillcrush.com/2016/01/07/41-real-jobs-you-can-get-if-youre-new-to-tech/&quot;&gt;charging anyone for my new skills&lt;/a&gt;. I am applying for jobs that I’m not getting. I see job listings that in a month, three months, hey, by then I should be able to do this, but not quite yet.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;I attended a Code your way to $1K!” webinar last week that was a bit annoyingly centered on selling courses, but it keeps sticking with me. “Code your way to $1K!” has a great ring to it, so of course it drew me in.  I started emailing them to ask about different courses, because I have this weird set of skills where like, I can absolutely host my own jekyll blog on Github, and I can scaffold a new Rails app, yet I’m not sure I could set up my own CSS for a site without it looking like a chump built &lt;a href=&quot;http://jimwithington.com&quot;&gt;my website&lt;/a&gt;.&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Anyway, their support was super helpful. And they heard I was unemployed and found a way to make it work better for me, cost-wise. They are smart about saying things like “charge for the skills you are building,” and making me feel like they will give me the tools to find paying work. And maybe taking on some freelance work is actually what’s in store for me. Maybe I’ll get to redesign the Fire on the Mountain website or Erin’s preschool’s site someday.&lt;/p&gt;
+
+&lt;p&gt;I think they may have won me over.  I have to see a bit about some other stuff (especially with &lt;a href=&quot;http://www.hackoregon.org/&quot;&gt;Hack Oregon&lt;/a&gt;), because I’m an impulsive joiner to a fault and all this learning needs to not interfere with actually getting paid work again (temp work, freelance work with new skills, office work, WHATEVER WORK).&lt;/p&gt;
+
+&lt;p&gt;But  I’m also on an accelerated timeframe.  I don’t want to wait another month. I don’t want to piece together things.  I like the idea of a learning path that I paid for and that centers around “get paid for what you know.”&lt;/p&gt;
+
+&lt;p&gt;Because doing it on my own I am not sure of what I know.  Doing it within their system?  I can trust that they &lt;em&gt;know&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;And that might just be the confidence I need.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;edited to add: I wrote this posted on the date above. Since then, things have changed a lot: a friend has helped me focus my efforts, I stopped working with Hack Oregon, I signed up for Skillcrush and have been super happy with it, and I’ve even gotten a job! On March 30, 2016, I decided to go ahead and post this, because it’s a good record of where I’ve been and where I’m going.&lt;/em&gt;&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;Note that shortly after I wrote this, they made sweeping changes to the curriculum and re-ordered the projects to hopefully prevent this problem. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;Worth pointing out that the current CSS over there is basically just the exported html from Byword.  Effective, but possibly chump-like. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Wed, 10 Feb 2016 00:00:00 -0800</pubDate>
+        <link>http://hardlikealgebra.com/2016/02/10/learning-paths/</link>
+        <guid isPermaLink="true">http://hardlikealgebra.com/2016/02/10/learning-paths/</guid>
+      </item>
+    
+      <item>
+        <title>Five Early Portland Memories</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://farm1.staticflickr.com/21/26410870_b790044036_z.jpg?zz=1&quot; width=&quot;640&quot; height=&quot;480&quot; alt=&quot;what up internet jack.&quot; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Gladstone apartment mornings. Always looking for the Harold bus to get to work.  Make sure to walk Wrigley, eat some breakfast. Call the Trimet line to see when the 10 will arrive. Sometimes look out the window, see the bus pull up, still get there in time.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The Fremont hill of doom. I finally bike all the way up, about 30 blocks of solid incline. This is the most in shape I’ve ever been as a cyclist, back when all of my friends were scrappy as hell, vegetarian, biked everywhere, made zines, played games.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;10am in the middle of the summer and I’m biking across town to play Risk 2210 with Franco and Joe and another Joe. I feel like a kid again, pedalling across town to friends and games. Who needs full time work and all that when I can do this and still make my bills?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;On the phone with Erin. I’m looking for my first ever solo apartment, because she’s planning to live and work in Portland for the summer. I’ve never signed a real lease. I’m going to plan to pay for it myself, just in case. She tells me that if I can afford it, go ahead and get something. We ended up there for over 2 years.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I’ve got a temp job doing taxes for folks, or rather, printing and assembling documents for them.  It’s a process that involves spreading the documents put in a particular way, all the way across a very long counter, and then stapling them into a folder. I see Ursula K. Le Guin is one of their clients. Every time I’m ever looking for work again, I think of this job, of the joy of podcasts all day and the rhythm of stapling and how much it felt like good, hard, honest, appreciated work.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;
+&lt;img src=&quot;http://farm1.staticflickr.com/21/26065809_659148449a_z.jpg&quot; alt=&quot;Plaid Pantry sign&quot; /&gt;
+&lt;/p&gt;
+</description>
+        <pubDate>Wed, 03 Feb 2016 00:00:00 -0800</pubDate>
+        <link>http://hardlikealgebra.com/2016/02/03/five-early-portland-memories/</link>
+        <guid isPermaLink="true">http://hardlikealgebra.com/2016/02/03/five-early-portland-memories/</guid>
+      </item>
+    
+      <item>
+        <title>Starting to *get* it</title>
+        <description>&lt;p&gt;I’m working over on &lt;a href=&quot;http://www.freecodecamp.com/&quot;&gt;freecodecamp&lt;/a&gt; now, learning JavaScript with a few goals:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;finish their program in Front End, Full Stack, and soon, &lt;a href=&quot;https://medium.freecodecamp.com/learn-to-code-by-coding-d1e241de81c0#.3kahg68km&quot;&gt;Data Visualization and Backend&lt;/a&gt; work&lt;/li&gt;
+  &lt;li&gt;work on their non-profit projects (for a better world!) so that&lt;/li&gt;
+  &lt;li&gt;I can build projects that help me get work in the field (for a better me!)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Today, I was working on one of their algorithm challenges (&lt;a href=&quot;http://www.freecodecamp.com/map#basic-algorithm-scripting&quot;&gt;Bonfires&lt;/a&gt;, in &lt;a href=&quot;http://www.freecodecamp.com/&quot;&gt;FCC&lt;/a&gt;-speak). It’s &lt;a href=&quot;http://www.freecodecamp.com/challenges/bonfire-truncate-a-string#?solution=function%20truncate(str%2C%20num)%20%7B%0A%20%20%2F%2F%20Clear%20out%20that%20junk%20in%20your%20trunk%0A%20%20if%20(num%20%3C%3D%203)%20%7B%0A%20%20%20%20str%20%3D%20str.slice(0%2C%20num)%20%2B%20&#39;...&#39;%3B%0A%20%20%7D%20else%20if%20(num%20%3E%3D%20str.length)%20%7B%0A%20%20%20%20return%20str%3B%0A%20%20%7D%20else%20%7B%0A%20%20%20%20str%20%3D%20str.slice(0%2C%20num%20-3)%20%2B%20&#39;...&#39;%3B%0A%20%20%7Dreturn%20str%3B%0A%7D%0Atruncate(%22A-%22%2C%201)&quot;&gt;an exercise in truncating strings&lt;/a&gt; that I’d started last night and had some success with, but I’d set it down to work on it today (and because Erin and I wanted to watch some &lt;em&gt;Casual&lt;/em&gt;, which is a Show I Have Mixed Feelings About But Still Is Worth Watching).&lt;/p&gt;
+
+&lt;p&gt;I was able to figure it out in a way that made me really feel like I’m starting to &lt;em&gt;get&lt;/em&gt; this. Not just parroting what others show me; really building my skills. It’s a rush, and it’s really exciting.&lt;/p&gt;
+
+&lt;p&gt;Here’s the code. It’s yet another start in my world of starts.&lt;/p&gt;
+
+&lt;script src=&quot;https://gist.github.com/anonymous/25516460412e7af66feb.js&quot;&gt;&lt;/script&gt;
+
+</description>
+        <pubDate>Fri, 11 Dec 2015 00:00:00 -0800</pubDate>
+        <link>http://hardlikealgebra.com/2015/12/11/starting-to-get-it/</link>
+        <guid isPermaLink="true">http://hardlikealgebra.com/2015/12/11/starting-to-get-it/</guid>
+      </item>
+    
+      <item>
         <title>Kicking the Tires, Again</title>
         <description>&lt;p&gt;And here I am, &lt;a href=&quot;/2014/01/16/kicking-the-tires/&quot;&gt;kicking the tires&lt;/a&gt; on a new way to blog. I like that this is fully Githubbed out, and is helping me blow the dust off my git knowledge. I like the thought of using &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; and &lt;a href=&quot;https://pages.github.com/&quot;&gt;hosting it for free&lt;/a&gt; too, to be honest.&lt;/p&gt;
 
 &lt;p&gt;It’s not necessarily the right time for me to be doing any sort of side- side- project, but hey: if I start writing again, I’ll be glad I did it.&lt;/p&gt;
 
-&lt;p&gt;There are still some things probably leftover here and there from the &lt;a href=&quot;pixlly.com&quot;&gt;theme’s site&lt;/a&gt;, but I’m sure I will clean those up in time. I’m working on fixing some images, too.&lt;/p&gt;
+&lt;p&gt;There are still some things probably leftover here and there from the &lt;a href=&quot;http://pixyll.com/&quot;&gt;theme’s site&lt;/a&gt;, but I’m sure I will clean those up in time. I’m working on fixing some images, too.&lt;/p&gt;
 
 </description>
         <pubDate>Tue, 01 Dec 2015 00:00:00 -0800</pubDate>
@@ -30,7 +163,7 @@
 
 &lt;p&gt;I explained my background a few times recently, and sometimes it sounds pretty great: education degree, art masters, crazy job teaching Acting for Animation, learning how to talk to students about their lives and help them thrive. Managing a team, even, so they could talk to students better than they had.&lt;/p&gt;
 
-&lt;p&gt;I’ve been thinking about how five years ago (!) I took the GRE and went to &lt;a href=&quot;http://www.umass.edu/juniperinstitute/institute.html&quot;&gt;Juniper&lt;/a&gt; and thought I’d get a poetry degree.  How ten years ago I started camping out in Portland coffeeshops, enamored of this little city that seemed to always have the Decemberists and &lt;em&gt;Transatlanticism&lt;/em&gt; playing, serving $1 cups of Hairbender. How four summers ago I was leaving InsideTrack, three summers ago we were leaving Lansing, two summers ago we were leaving Macomb, and last summer my job was leaving me behind.&lt;/p&gt;
+&lt;p&gt;I’ve been thinking about how five years ago (!) I took the GRE and went to &lt;a href=&quot;http://www.umass.edu/juniperinstitute/#/institute/about&quot;&gt;Juniper&lt;/a&gt; and thought I’d get a poetry degree.  How ten years ago I started camping out in Portland coffeeshops, enamored of this little city that seemed to always have the Decemberists and &lt;em&gt;Transatlanticism&lt;/em&gt; playing, serving $1 cups of Hairbender. How four summers ago I was leaving InsideTrack, three summers ago we were leaving Lansing, two summers ago we were leaving Macomb, and last summer my job was leaving me behind.&lt;/p&gt;
 
 &lt;p&gt;The linearity of life sounds so simple when you’re telling someone something in a few paragraphs, a few minutes.&lt;/p&gt;
 
@@ -84,7 +217,7 @@
 Because everything is impermanent, even decades old &lt;a href=&quot;http://en.wikipedia.org/wiki/Sangha&quot;&gt;sanghas&lt;/a&gt;.
 Because &lt;a href=&quot;http://dharma-rain.org/a-quantum-theory-of-dharmas/&quot;&gt;life is marked by “unsatisfactoriness”&lt;/a&gt;, yet knowing that still does not make it easy.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://farm4.staticflickr.com/3131/2350332641_d9720a152d_z.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://farm4.staticflickr.com/3131/2350332641_d9720a152d_z.jpg&quot; alt=&quot;&amp;quot;Precept ceremony at Dharma Rain Zen Center in Portland Oregon&amp;quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -124,8 +257,8 @@ Because &lt;a href=&quot;http://dharma-rain.org/a-quantum-theory-of-dharmas/&quo
 
 &lt;p&gt;These emo bands, these guys, they are not always the right thing, but when they are the right thing, it is me, at the desk, closing my eyes, feeling the song all the way down to my fingertips, wondering how it was that i did anything but watch this band for all that they do when I saw them the other night. Why did I waste time standing off to the side, earplugs in, filming them with my stupid phone? I should have been pushing ahead, as close as I could get, feeling the wave with everyone else, singing along: &lt;/p&gt;
 
-&lt;p&gt;*The world is a beautiful place but we have to make it that way. Whenever you find home we&amp;#8217;ll make it more than just a shelter. And if everyone belongs there it will hold us all together. If you&amp;#8217;re afraid to die, then so am I.&amp;quot; &lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/0Kz2GxSUzbfAFce-TcPh024Do-2swRTWMsbJz9ma8wwb=w1834-h1038-no&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&amp;quot;The world is a beautiful place but we have to make it that way. Whenever you find home we&amp;#8217;ll make it more than just a shelter. And if everyone belongs there it will hold us all together. If you&amp;#8217;re afraid to die, then so am I.&amp;quot; &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/0Kz2GxSUzbfAFce-TcPh024Do-2swRTWMsbJz9ma8wwb=w1834-h1038-no&quot; alt=&quot;&amp;quot;The World is a Beautiful Place and I Am No Longer Afraid to Die performs at Bottom Lounge in Chicago&amp;quot;&quot; /&gt;&lt;/p&gt;
 &lt;div class=&quot;footnotes&quot;&gt;
 &lt;hr /&gt;
 &lt;ol&gt;
@@ -152,7 +285,7 @@ Because &lt;a href=&quot;http://dharma-rain.org/a-quantum-theory-of-dharmas/&quo
 
 &lt;p&gt;But the thing about Egon was that he lived in Skokie during the years when I was at Northwestern, and he even sometimes &lt;a href=&quot;http://www.northwestern.edu/residentialcolleges/documents/article.pdf&quot;&gt;came to campus and gave fireside chats&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Now, the caption in that .pdf says that he was at Shepard, and I guess that&amp;#8217;s possible, but I seem to remember him visiting &lt;a href=&quot;http://www.northwestern.edu/stuaff/jones/constitution.html&quot;&gt;the dorm&lt;/a&gt; that I lived in. &lt;a href=&quot;#fn:1&quot; id=&quot;fnref:1&quot; title=&quot;see footnote&quot; class=&quot;footnote&quot;&gt;[1]&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Now, the caption in that .pdf says that he was at Shepard, and I guess that&amp;#8217;s possible, but I seem to remember him visiting &lt;a href=&quot;http://nu-jonesrc.weebly.com/about.html&quot;&gt;the dorm&lt;/a&gt; that I lived in. &lt;a href=&quot;#fn:1&quot; id=&quot;fnref:1&quot; title=&quot;see footnote&quot; class=&quot;footnote&quot;&gt;[1]&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;And I also feel like the two people sitting nearest him in that photo are my freshman year girlfriend my freshman year roommate, so there&amp;#8217;s that. I was definitely there! And I am definitely bad at timelines (which at least one of you will point out if, in fact, you were actually there).&lt;/p&gt;
 
