@@ -58,7 +58,7 @@
 
 &lt;p&gt;Anyway, their support was super helpful. And they heard I was unemployed and found a way to make it work better for me, cost-wise. They are smart about saying things like “charge for the skills you are building,” and making me feel like they will give me the tools to find paying work. And maybe taking on some freelance work is actually what’s in store for me. Maybe I’ll get to redesign the Fire on the Mountain website or Erin’s preschool’s site someday.&lt;/p&gt;
 
-&lt;p&gt;I think they may have won me over.  I have to see a bit about some other stuff (especially with &lt;a href=&quot;http://www.hackoregon.org/&quot;&gt;Hack Oregon&lt;/a&gt;), because I’m an impulsive joiner to a fault and all this learning needs to not interfere with actually getting paid work again (temp work, freelance work with new skills, office work, WHATEVER WORK).&lt;/p&gt;
+&lt;p&gt;I think they may have won me over.  I have to see a bit about some other stuff (especially with &lt;a href=&quot;http://www.hackoregon.org/&quot;&gt;Hack Oregon&lt;/a&gt;), because I’m an impulsive joiner to a fault and all this learning needs to not interfere with actually getting paid work again (temp work, freelance work with new skills, office work, WHATEVER WORK).   &lt;/p&gt;
 
 &lt;p&gt;But  I’m also on an accelerated timeframe.  I don’t want to wait another month. I don’t want to piece together things.  I like the idea of a learning path that I paid for and that centers around “get paid for what you know.”&lt;/p&gt;
 
@@ -121,18 +121,19 @@
 
 &lt;ul&gt;
   &lt;li&gt;finish their program in Front End, Full Stack, and soon, &lt;a href=&quot;https://medium.freecodecamp.com/learn-to-code-by-coding-d1e241de81c0#.3kahg68km&quot;&gt;Data Visualization and Backend&lt;/a&gt; work&lt;/li&gt;
-  &lt;li&gt;work on their non-profit projects (for a better world!) so that&lt;/li&gt;
+  &lt;li&gt;work on their non-profit projects (for a better world!) so that &lt;/li&gt;
   &lt;li&gt;I can build projects that help me get work in the field (for a better me!)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Today, I was working on one of their algorithm challenges (&lt;a href=&quot;http://www.freecodecamp.com/map#basic-algorithm-scripting&quot;&gt;Bonfires&lt;/a&gt;, in &lt;a href=&quot;http://www.freecodecamp.com/&quot;&gt;FCC&lt;/a&gt;-speak). It’s &lt;a href=&quot;http://www.freecodecamp.com/challenges/bonfire-truncate-a-string#?solution=function%20truncate(str%2C%20num)%20%7B%0A%20%20%2F%2F%20Clear%20out%20that%20junk%20in%20your%20trunk%0A%20%20if%20(num%20%3C%3D%203)%20%7B%0A%20%20%20%20str%20%3D%20str.slice(0%2C%20num)%20%2B%20&#39;...&#39;%3B%0A%20%20%7D%20else%20if%20(num%20%3E%3D%20str.length)%20%7B%0A%20%20%20%20return%20str%3B%0A%20%20%7D%20else%20%7B%0A%20%20%20%20str%20%3D%20str.slice(0%2C%20num%20-3)%20%2B%20&#39;...&#39;%3B%0A%20%20%7Dreturn%20str%3B%0A%7D%0Atruncate(%22A-%22%2C%201)&quot;&gt;an exercise in truncating strings&lt;/a&gt; that I’d started last night and had some success with, but I’d set it down to work on it today (and because Erin and I wanted to watch some &lt;em&gt;Casual&lt;/em&gt;, which is a Show I Have Mixed Feelings About But Still Is Worth Watching).&lt;/p&gt;
+&lt;p&gt;Today, I was working on one of their algorithm challenges (&lt;a href=&quot;http://www.freecodecamp.com/map#basic-algorithm-scripting&quot;&gt;Bonfires&lt;/a&gt;, in &lt;a href=&quot;http://www.freecodecamp.com/&quot;&gt;FCC&lt;/a&gt;-speak). It’s [an exercise in truncating strings][trunc] that I’d started last night and had some success with, but I’d set it down to work on it today (and because Erin and I wanted to watch some &lt;em&gt;Casual&lt;/em&gt;, which is a Show I Have Mixed Feelings About But Still Is Worth Watching).&lt;/p&gt;
 
 &lt;p&gt;I was able to figure it out in a way that made me really feel like I’m starting to &lt;em&gt;get&lt;/em&gt; this. Not just parroting what others show me; really building my skills. It’s a rush, and it’s really exciting.&lt;/p&gt;
 
-&lt;p&gt;Here’s the code. It’s yet another start in my world of starts.&lt;/p&gt;
+&lt;p&gt;Here’s the code. It’s yet another start in my world of starts. &lt;/p&gt;
 
 &lt;script src=&quot;https://gist.github.com/anonymous/25516460412e7af66feb.js&quot;&gt;&lt;/script&gt;
 
+&lt;p&gt;[trunc]: http://www.freecodecamp.com/challenges/bonfire-truncate-a-string#?solution=function%20truncate(str%2C%20num)%20%7B%0A%20%20%2F%2F%20Clear%20out%20that%20junk%20in%20your%20trunk%0A%20%20if%20(num%20%3C%3D%203)%20%7B%0A%20%20%20%20str%20%3D%20str.slice(0%2C%20num)%20%2B%20’…‘%3B%0A%20%20%7D%20else%20if%20(num%20%3E%3D%20str.length)%20%7B%0A%20%20%20%20return%20str%3B%0A%20%20%7D%20else%20%7B%0A%20%20%20%20str%20%3D%20str.slice(0%2C%20num%20-3)%20%2B%20’…‘%3B%0A%20%20%7Dreturn%20str%3B%0A%7D%0Atruncate(%22A-%22%2C%201)&lt;/p&gt;
 </description>
         <pubDate>Fri, 11 Dec 2015 00:00:00 -0800</pubDate>
         <link>http://hardlikealgebra.com/2015/12/11/starting-to-get-it/</link>
@@ -189,7 +190,7 @@
 
 &lt;p&gt;My real dedication to Zen in particular came during another tough job. Two months in to that one I knew I needed to make a change to get through all of the…angst is a word that the nineties ruined but maybe that’s it? All of the stress and pent-up, “oh god this is a lot,” perhaps?  I knew I needed a change and I was in Portland and an internet friend recommended Dharma Rain and off I went. I took an intro class and then I settled in to a routine of attending Wednesday nights; somehow Zen night made a lot more sense than Sunday service did. I loved the dharma talks on Sundays but the discussion classes on Wednesday—and the fact that it was at night—fit me more.&lt;/p&gt;
 
-&lt;p&gt;There were times when I “went to Zen” every single week, and times when there were months (once, maybe even a year) in between visits. Always smiles though, always “we wondered” or just “welcome back,” instead of admonishments or guilt trips that marred the Catholicism of my youth. I mention this a lot whenever I explain my involvement to folks who don’t know about Zen but are curious—the sense of “hey! good to see you!” comes through at Dharma Rain. It motivates folks to return, too, I imagine.&lt;/p&gt;
+&lt;p&gt;There were times when I “went to Zen” every single week, and times when there were months (once, maybe even a year) in between visits. Always smiles though, always “we wondered” or just “welcome back,” instead of admonishments or guilt trips that marred the Catholicism of my youth. I mention this a lot whenever I explain my involvement to folks who don’t know about Zen but are curious—the sense of “hey! good to see you!” comes through at Dharma Rain. It motivates folks to return, too, I imagine.  &lt;/p&gt;
 
 &lt;p&gt;After all, everything is impermanent, we all have our own paths, and sometimes that path takes us in another direction.&lt;/p&gt;
 
@@ -199,7 +200,7 @@
 
 &lt;hr /&gt;
 
-&lt;p&gt;I don’t talk about Buddhism much; certainly not publicly, not in a way that can be traced to my name and my face and my life. During a beginner’s retreat, &lt;a href=&quot;http://dharma-rain.org/tag/kyogen/&quot;&gt;the co-abbot&lt;/a&gt; at Dharma Rain asked me about my Catholic family and how they felt about my taking the precepts to become a Buddhist. “I don’t know!” I said, chuckling a bit. “I never told them!”&lt;/p&gt;
+&lt;p&gt;I don’t talk about Buddhism much; certainly not publicly, not in a way that can be traced to my name and my face and my life. During a beginner’s retreat, &lt;a href=&quot;http://dharma-rain.org/tag/kyogen/&quot;&gt;the co-abbot&lt;/a&gt; at Dharma Rain asked me about my Catholic family and how they felt about my taking the precepts to become a Buddhist. “I don’t know!” I said, chuckling a bit. “I never told them!”  &lt;/p&gt;
 
 &lt;p&gt;The entire class of people roared at that. For the most part, that lack of knowledge still lingers. I’m 36 now and I couldn’t tell you why it’s still something I can’t bring up with them, but it is.&lt;/p&gt;
 
@@ -258,9 +259,10 @@ Because &lt;a href=&quot;http://dharma-rain.org/a-quantum-theory-of-dharmas/&quo
 &lt;p&gt;These emo bands, these guys, they are not always the right thing, but when they are the right thing, it is me, at the desk, closing my eyes, feeling the song all the way down to my fingertips, wondering how it was that i did anything but watch this band for all that they do when I saw them the other night. Why did I waste time standing off to the side, earplugs in, filming them with my stupid phone? I should have been pushing ahead, as close as I could get, feeling the wave with everyone else, singing along: &lt;/p&gt;
 
 &lt;p&gt;&amp;quot;The world is a beautiful place but we have to make it that way. Whenever you find home we&amp;#8217;ll make it more than just a shelter. And if everyone belongs there it will hold us all together. If you&amp;#8217;re afraid to die, then so am I.&amp;quot; &lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/0Kz2GxSUzbfAFce-TcPh024Do-2swRTWMsbJz9ma8wwb=w1834-h1038-no&quot; alt=&quot;&amp;quot;The World is a Beautiful Place and I Am No Longer Afraid to Die performs at Bottom Lounge in Chicago&amp;quot;&quot; /&gt;&lt;/p&gt;
-&lt;div class=&quot;footnotes&quot;&gt;
+&lt;p&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/0Kz2GxSUzbfAFce-TcPh024Do-2swRTWMsbJz9ma8wwb=w1834-h1038-no&quot; alt=&quot;&amp;quot;The World is a Beautiful Place and I Am No Longer Afraid to Die performs at Bottom Lounge in Chicago&amp;quot;&quot; /&gt;
+&amp;lt;div class=&quot;footnotes&quot;&amp;gt;&lt;/p&gt;
 &lt;hr /&gt;
+
 &lt;ol&gt;
 
 &lt;li id=&quot;fn:1&quot;&gt;
@@ -272,7 +274,7 @@ Because &lt;a href=&quot;http://dharma-rain.org/a-quantum-theory-of-dharmas/&quo
 &lt;/li&gt;
 
 &lt;/ol&gt;
-&lt;/div&gt;
+&lt;p&gt;&amp;lt;/div&amp;gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 05 Mar 2014 03:57:59 -0800</pubDate>
         <link>http://hardlikealgebra.com/2014/03/05/support-your-nonlocal-opening-bands/</link>
@@ -321,7 +323,7 @@ Because &lt;a href=&quot;http://dharma-rain.org/a-quantum-theory-of-dharmas/&quo
         <title>Kicking the Tires</title>
         <description>&lt;h2 id=&quot;hello-world&quot;&gt;Hello World&lt;/h2&gt;
 
-&lt;p&gt;I’m trying something new around here. Still kicking the tires and picking options.&lt;/p&gt;
+&lt;p&gt;I’m trying something new around here. Still kicking the tires and picking options. &lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://hardlikealgebra.wordpress.com&quot;&gt;Here’s the archive&lt;/a&gt; for the old blog.&lt;/p&gt;
 
@@ -331,6 +333,33 @@ Because &lt;a href=&quot;http://dharma-rain.org/a-quantum-theory-of-dharmas/&quo
         <pubDate>Thu, 16 Jan 2014 17:38:24 -0800</pubDate>
         <link>http://hardlikealgebra.com/2014/01/16/kicking-the-tires/</link>
         <guid isPermaLink="true">http://hardlikealgebra.com/2014/01/16/kicking-the-tires/</guid>
+      </item>
+    
+      <item>
+        <title>Everything in its Right Place</title>
+        <description>&lt;p&gt;&lt;img class=&quot;alignnone size-medium wp-image-474&quot; alt=&quot;Screenshot 2014-01-06 18.58.50&quot; src=&quot;/assets/Screenshot-2014-01-06-18.58.50-300x170.png&quot; width=&quot;300&quot; height=&quot;170&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;I’m not quite sure what triggers it either. I mean, this is the thing with so many weird/unusual/WTF mental health/mood/WTF things right? Some days you just didn’t get enough sleep or you had too much caffeine or not enough coffee or too many cookies or not enough food or too much social time or not enough hugs, and there you are just feeling like the entire day is a push against the &lt;a href=&quot;http://explore.noodle.org/post/71989031622/people-drew-maps-of-body-locations-where-they-feel&quot;&gt;middle of your chest&lt;/a&gt; where your body just aches because you’re scared.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;So that was today and so that also meant it was &lt;a href=&quot;http://instagram.com/p/i2GnDrk7ce/&quot;&gt;time for &lt;em&gt;Kid A&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.kungfugrippe.com/post/30508629994/pump-chili&quot;&gt;As you do.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I’ve been thinking a lot lately about what the internet is for. It has to do with &lt;a href=&quot;http://5by5.tv/cmdspace/77&quot;&gt;this Episode of CMD-Space&lt;/a&gt; (featuring the always-gonna-make-me-think John Roderick) where he talks about making primary materials. So, podcast you make=primary materials, article about dumb things on the internet = not primary. They also talked a bit about how there was a moment where Clap Your Hands Say Yeah could happen because of myspace and cool kid word of mouth, and how we’re back to a place where that sort of thing doesn’t happen in the same way any more.&lt;/p&gt;
+&lt;p&gt;And then they said something like “I dunno, maybe things go back to blogs now.”&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;I always hesitated to call this place a blog. BLAG, blagh, interblog. I said “my music writing site” or sometimes “journal.” And as of late I said, “that thing that I haven’t done much with for a long time.”&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;*&lt;br /&gt;
+While I listened to that podcast, I found myself thinking, “what did I write about music for?” Because, unlike what Roderick was saying, I’ve had a pretty Buddhist (right speech) / Thumper (if you can’t say something nice….) way of writing about music ever since my days with the Portland Mercury. Even I don’t have the ego enough to think I &lt;/strong&gt;have influence**, but I do think that if someone is wondering if they should go see Bark, Hide, &amp;amp; Horn, and they read 150 words about their love song to a snail, they might say, “yeah, that’s a thing I want to throw money at.”&lt;/p&gt;
+&lt;p&gt;And then I remembed what &lt;a href=&quot;fascinated.fm&quot;&gt;Mr. Hype Machine&lt;/a&gt; says in his bio, what he has said for years:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;I wake up in the morning to get people excited about new music. &lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Yeah man, I’ve always thought. Yeah.&lt;/p&gt;
+&lt;p&gt;This is how Icome at art criticism, or trying to get people into Lisa Olstein’s Poetry, or, sure, Radiohead. I’m a jerk about enthusiasm. &lt;em&gt;dudedon’tgivemethat&lt;/em&gt; &lt;strong&gt;youresowrongaboutthis&lt;/strong&gt; &lt;a href=&quot;http://www.youtube.com/watch?v=0eBh6xipKYk&quot;&gt;&lt;strong&gt;ICANTBELIEVEYOUDONTOWNTHISFUCKINRECORD!&lt;/strong&gt; Jeezus!&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I love having an outlet for that. I’ve wanted more of it for years. I want Hard Like Algebra to be that. I want my life to be that.&lt;/p&gt;
+&lt;p&gt;Because you can feel shitty and morose and anxious (and beat yourself up for all of those things)(which TOTALLY HELPS THE ANXIOUS LET ME TELL YOU) and then go, “Hmm. You know, &lt;em&gt;Kid A&lt;/em&gt; might help this.”&lt;/p&gt;
+&lt;p&gt;And then it does, and then you’re yourself a bit more again, you’ve got that life back, you’re filling yourself back up and hearing “Idiotecque” and thinking, well yeah, if I made these songs I would dance like Thom Yorke does, too.&quot;&lt;/p&gt;
+&lt;p&gt;Or at least, that’s what music does for me.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 06 Jan 2014 17:01:36 -0800</pubDate>
+        <link>http://hardlikealgebra.com/2014/01/06/everything-in-its-right-place/</link>
+        <guid isPermaLink="true">http://hardlikealgebra.com/2014/01/06/everything-in-its-right-place/</guid>
       </item>
     
   </channel>
