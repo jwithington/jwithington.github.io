@@ -8,7 +8,7 @@ I'm finding myself a bit confused with Erin out of town this weekend, Not really
 
 I had a post that I started in May, right after [Jekyll Conf][conf]. It was about my job, and how we have labs on Fridays, and we can use them to do "something technology related." It's a really cool thing, and one Friday I fixed these here archives.
 
-Look! If you need to see my [top ten records in 2008][2008], now you can! [^1]
+Look! If you need to see my [top ten records in 2007][2007], now you can! [^1]
 
 The archives are a mess because the photos are effed and a bunch of the links are probably wrong. But it feels good to have all of the posts in one place.
 
@@ -42,8 +42,8 @@ At least for now.
 [^2]:  Mostly in XML, first coding job ever, wish me luck!
 [^3]: Oh, the insights you'll go!
 [^4]: I even apologize for [this][tot], an intentionally sandbox-y, just-try-a-thing site (with my dog, who is admittedly rad).
-[conf]:
-[2008]:
-[wordpress]:
-[static]:
+[conf]: http://jekyllconf.com/
+[2007]: http://hardlikealgebra.com/lists/2008/01/01/top-ten-albums-for-2007/
+[wordpress]: https://hardlikealgebra.wordpress.com/
+[static]: https://www.thenewdynamic.org/
 [tot]: http://tottot.pet
