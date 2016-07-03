@@ -41,9 +41,8 @@ At least for now.
 [^1]:  Exclamation points added for sarcasticness.
 [^2]:  Mostly in XML, first coding job ever, wish me luck!
 [^3]: Oh, the insights you'll go!
-[^4]: I even apologize for [this][tot], an intentionally sandbox-y, just-try-a-thing site (with my dog, who is admittedly rad).
+[^4]: I even apologize for [this](http://tottot.pet), an intentionally sandbox-y, just-try-a-thing site (with my dog, who is admittedly rad).
 [conf]: http://jekyllconf.com/
 [2007]: http://hardlikealgebra.com/lists/2008/01/01/top-ten-albums-for-2007/
 [wordpress]: https://hardlikealgebra.wordpress.com/
 [static]: https://www.thenewdynamic.org/
-[tot]: http://tottot.pet
