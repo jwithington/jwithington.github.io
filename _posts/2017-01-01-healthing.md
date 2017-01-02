@@ -1,10 +1,8 @@
 ---
 layout: post
 title: 100 Days of Healthing
-excerpt: Inspired by 100DaysofCode, 100 Days of Healthing is a challenge to spend an hour a day, for 100 days, working on your health & self care. It's permission to give *yourself* an hour a day. And we're all here with you.
+excerpt: Inspired by 100 Days of Code, 100 Days of Healthing is a challenge to spend an hour a day, for 100 days, working on your health & self care. It's permission to give *yourself* an hour a day. And we're all here with you.
 ---
-
-# 100 Days of Healthing
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/sachac/16691122547/in/photostream/" title="2015-03-18c What do I do for self-care -- index card #self-care #happiness #comfort"><img src="https://c4.staticflickr.com/9/8726/16691122547_9348647318_z.jpg" width="640" height="383" alt="2015-03-18c What do I do for self-care -- index card #self-care #happiness #comfort"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
