@@ -79,7 +79,7 @@ However! One thing I'm getting better at is knowing what I can and cannot do, an
 **Q:** What's a Github?<br />
 **A:** Don't learn Github just for this project unless you want to.
 
-**Q:** Why "Healthing" and not "health?"    
+**Q:** Why "Healthing" and not "health?"
 **A:** Because internet.
 
 ## Helpful links
@@ -92,6 +92,7 @@ However! One thing I'm getting better at is knowing what I can and cannot do, an
 - [US Support Groups][support]
 
 <small>*Images by [sachac][sc] and licensed under [C.C. by 2.0][cc]: [Being extra-kind to myself][attrib] & [What I do for self care][attrib2]*</small>
+<small>*Posted at [The Unfocused Developer][unfocused] and on [Medium][medium] as well. Please spread the word!*</small>
 
 [^1]: Not that I know anything about that.
 [^2]: Oh, another thing to note: I'm fortunate in that I actually **do** work somewhere that recognizes all the benefits of healthy, happy workers. This project should not imply otherwise. 😄
@@ -119,3 +120,5 @@ However! One thing I'm getting better at is knowing what I can and cannot do, an
 [750]: http://750words.com/
 [goals]: https://github.com/una/personal-goals
 [support]: https://healthfinder.gov/FindServices/SearchContext.aspx?topic=833
+[medium]: https://medium.com/@jwithy/100-days-of-healthing-87b2ea71dba9#.5c5z4y4s3
+[unfocused]: https://unfocused.tech/
