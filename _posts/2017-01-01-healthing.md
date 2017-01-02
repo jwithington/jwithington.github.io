@@ -92,7 +92,8 @@ However! One thing I'm getting better at is knowing what I can and cannot do, an
 - [US Support Groups][support]
 
 <small>*Images by [sachac][sc] and licensed under [C.C. by 2.0][cc]: [Being extra-kind to myself][attrib] & [What I do for self care][attrib2]*</small>
-<br /></br />
+<br />
+<br />
 <small>*Posted at [The Unfocused Developer][unfocused] and on [Medium][medium] as well. Please spread the word!*</small>
 
 [^1]: Not that I know anything about that.
