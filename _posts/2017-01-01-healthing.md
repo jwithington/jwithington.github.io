@@ -91,8 +91,9 @@ However! One thing I'm getting better at is knowing what I can and cannot do, an
 - Una's great [personal goals repo][goals]
 - [US Support Groups][support]
 
-<p><small>*Images by [sachac][sc] and licensed under [C.C. by 2.0][cc]: [Being extra-kind to myself][attrib] & [What I do for self care][attrib2]*</small></p>
-<p><small>*Posted at [The Unfocused Developer][unfocused] and on [Medium][medium] as well. Please spread the word!*</small></p>
+<small>*Images by [sachac][sc] and licensed under [C.C. by 2.0][cc]: [Being extra-kind to myself][attrib] & [What I do for self care][attrib2]*</small>
+<br /></br />
+<small>*Posted at [The Unfocused Developer][unfocused] and on [Medium][medium] as well. Please spread the word!*</small>
 
 [^1]: Not that I know anything about that.
 [^2]: Oh, another thing to note: I'm fortunate in that I actually **do** work somewhere that recognizes all the benefits of healthy, happy workers. This project should not imply otherwise. 😄
