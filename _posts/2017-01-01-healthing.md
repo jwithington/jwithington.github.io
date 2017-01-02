@@ -79,7 +79,7 @@ However! One thing I'm getting better at is knowing what I can and cannot do, an
 **Q:** What's a Github?
 **A:** Don't learn Github just for this project unless you want to.
 
-**Q:** Why "Healthing" and not "health?"
+**Q:** Why "Healthing" and not "health?"  
 **A:** Because internet.
 
 ## Helpful links
