@@ -4,7 +4,7 @@ title: It was Twenty Years Ago Today
 excerpt: I mention my mom a lot as far as my source of music. Not necessarily the things I listen to!
 ---
 
-# It was Twenty Years Ago Today
+
 
 I mention my mom a lot as far as my source of music. Not necessarily the things I listen to -- though I long ago made peace with loving [Chicago][Chicago] and "[Rock Steady][whispers]," to name a few -- but the sort of obsessive, HOLY SHIT IT IS THIS SONG TIME TO TELL YOU ALL ABOUT IT side of it.
 
@@ -31,6 +31,8 @@ When I got my new turntable, that was the first album I played on it.
 I sent her a text today, the day after I picked up *OKNOTOK19972017*, the reissue of *OK Computer*.  Told her how I remember her excitement about 20 years of Sgt. Pepper's, and left off the part where, shit, I have those moments when I wish I had a nine year old I could yell about OK Computer with (hmm, maybe I should call my niece and shout at her about it?). I told mom what I wrote here -- that I think it's kinda cool that these two albums will always be linked in their anniversaries.
 
 I told her I might send her a copy of this one, too, and "break your brain a bit. 😜 💜". I still might, and that breaks my brain a bit, too.
+
+![text with my mom about radiohead and the beatles](../images/070817-mom-radiohead-text.jpg)
 
 [Chicago]: https://www.youtube.com/watch?v=iUAYeN3Rp2E
 [Chicago2]: http://www.guitarplayer.com/artists/1013/hear-terry-kaths-isolated-guitar-from-chicagos-25-or-6-to-4/56811
