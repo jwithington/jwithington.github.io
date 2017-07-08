@@ -4,7 +4,7 @@ title: It was Twenty Years Ago Today
 excerpt: I mention my mom a lot as far as my source of music. Not necessarily the things I listen to, but the obsessive side of it.
 ---
 
-<img alt "me and a giant OKNOTOK19972017 poster" src="https://raw.githubusercontent.com/jwithington/jwithington.github.io/master/images/070817-radiohead-poster.jpg">
+<img alt="me and a giant OKNOTOK19972017 poster" src="https://raw.githubusercontent.com/jwithington/jwithington.github.io/master/images/070817-radiohead-poster.jpg">
 
 I mention my mom a lot as far as my source of music. Not necessarily the things I listen to -- though I long ago made peace with loving [Chicago][Chicago] and "[Rock Steady][whispers]," to name a few -- but the sort of obsessive, HOLY SHIT IT IS THIS SONG TIME TO TELL YOU ALL ABOUT IT side of it.
 
