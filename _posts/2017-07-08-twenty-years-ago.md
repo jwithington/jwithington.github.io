@@ -32,7 +32,7 @@ I sent her a text today, the day after I picked up *OKNOTOK19972017*, the reissu
 
 I told her I might send her a copy of this one, too, and "break your brain a bit. 😜 💜". I still might, and that breaks my brain a bit, too.
 
-<img src="https://github.com/jwithington/jwithington.github.io/blob/master/_site/images/070817-mom-radiohead-text.jpg">
+<img src="https://github.com/jwithington/jwithington.github.io/blob/master/_site/images/070817-mom-radiohead-text.jpg?raw=true">
 
 [Chicago]: https://www.youtube.com/watch?v=iUAYeN3Rp2E
 [Chicago2]: http://www.guitarplayer.com/artists/1013/hear-terry-kaths-isolated-guitar-from-chicagos-25-or-6-to-4/56811
