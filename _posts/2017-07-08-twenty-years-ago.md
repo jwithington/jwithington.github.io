@@ -1,10 +1,10 @@
 ---
 layout: post
-title: On Learning Paths and Plans
+title: It was Twenty Years Ago Today
 excerpt: I mention my mom a lot as far as my source of music. Not necessarily the things I listen to!
 ---
 
-# It was Twenty Years ago today
+# It was Twenty Years Ago Today
 
 I mention my mom a lot as far as my source of music. Not necessarily the things I listen to -- though I long ago made peace with loving [Chicago][Chicago] and "[Rock Steady][whispers]," to name a few -- but the sort of obsessive, HOLY SHIT IT IS THIS SONG TIME TO TELL YOU ALL ABOUT IT side of it.
 
