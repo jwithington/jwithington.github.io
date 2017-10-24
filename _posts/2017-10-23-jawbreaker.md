@@ -3,6 +3,7 @@ layout: post
 title: You're not punk and I'm telling everyone
 excerpt: I just got home from seeing the Jawbreaker documentary.  I don't know a ton of their songs, but the ones I know gut me.
 ---
+![Jawbreaker playing at Riot Fest](/images/jawbreaker.jpg)
 
 I just got home from seeing [the Jawbreaker documentary][doc], and first off, it was incredible.
 
