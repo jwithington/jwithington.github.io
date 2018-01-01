@@ -31,7 +31,7 @@ This also honors that weird part of my brain that a) wants to plan everything, y
 So the next thing I'm going to try: I'm going to start planning for play. Here are some ways I'll do this:
 
 1. When I plan my week, I'll be sure to include either tangible things (_go to Jonathan's for game night Thursday_) and looser ones (schedule a block on a weeknight for "games," or "play," or whatever, and _keep the appointment as if it were a doctor's appointment_)
-2. I've been telling people "I want to have a game night" since I got my new apartment. Time to pick some dates and just tell people "I'm having a game night on [date] at [time]; hope you can come."
+2. I've been telling people "I want to have a game night" since I got my new apartment. Time to pick some dates and just tell people "I'm having a game night on {date} at {time}; hope you can come."
 3. Remember that "play" can also mean shooting baskets at the gym, or going on an escape room date, or goofing around building a silly website, or making collages.  It's not just gaming, and it's not just solo or with nerds.
 
 ## Six Grid Categories
