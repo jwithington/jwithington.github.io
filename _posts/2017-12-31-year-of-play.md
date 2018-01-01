@@ -4,8 +4,6 @@ title: Flexibility, Acceptance, and Twenty-Five Seasons of NCAA Football
 excerpt: I'm pretty much off the idea of New Year's resolutions; still, I _love_ the opportunity for reflection and change afforded by the holidays.
 ---
 
-![picture of the board game fog of love](images/fog-of-love.jpg)
-
 I'm pretty much off the idea of New Year's resolutions; giant changes + not much thought to what you'll need to shift due to what you are trying to change + trying to do too many things at once = recipe for disaster. Still, I _love_ the opportunity for reflection and change afforded by the jobs I've had that have given me time off during the holidays.
 
 The past few years I've picked a few things to work on.  One year, my theme was "Be More Fun Than Me," because I tend towards seriousness too often. Another year (same year?) it was 52 movies in 52 weeks (I came close!). For 2017 my theme was halfhearted and hurried and I honestly don't remember what it was.
@@ -65,7 +63,7 @@ Shoot me an email (jwithy at hardlikealgebra dot com) if you've got ideas about 
 
 (And [hey demon, seriously, shut up][demon3]. Yes, I posted this while in a well-balanced, hopeful mood, and not every day is like that! Yes, maybe I’ll make the public proclamation and not stick to it [this time, too][public]. But it’s fun to try. It’s still _play_. So i’m doing it right.)
 
-![picture of the ghoul from the board game Vast](images/fog-of-love.jpg)
+![picture of the board game fog of love](/images/fog-of-love.jpg)
 
 [^1]:  the Catholic way, amirite
 [^2]: Current starting lineup: Damian Lillard, Carmelo Anthony (who sucks for real but is made for video games), Giannis Antetokounmpo, Ruby Gobert, and a dude I drafted and molded to be an incredible starting SG
