@@ -38,7 +38,7 @@ So the next thing I'm going to try: I'm going to start planning for play. Here a
 
 Okay, so this one may not seem so playful, but it's related. 
 
-I have a few areas of my life that need attention. I want to try and give them attention in a way that gives me forward momentum, yet also keeps this flexibility. So! I'm going to make a grid like Austin Kleon did, except instead of 30 days of the same thing, I'll just commit to thirty times of doing a thing.  Here are my categories:
+I have a few areas of my life that need attention. I want to try and give them attention in a way that gives me forward momentum, yet also keeps this flexibility. So! I'm going to [make a grid like Austin Kleon did][Kleon], except instead of 30 days of the same thing, I'll just commit to thirty times of doing a thing.  Here are my categories:
 
 1. Professional Development & Learning (30 min)
 2. Play (30 min)
@@ -77,3 +77,4 @@ Shoot me an email (jwithy at hardlikealgebra dot com) if you've got ideas about 
 [demon2]: https://lucybellwood.com/100-demon-dialogues/#jp-carousel-4811
 [demon3]: https://lucybellwood.com/100-demon-dialogues/#jp-carousel-4833
 [public]: http://hardlikealgebra.com/2017/03/18/100-days-update/
+[Kleon]: https://austinkleon.com/2017/11/01/30-day-challenge/
