@@ -51,6 +51,8 @@ _But dude_, yells the pretend people who are likely just the voices in my head, 
 
 Whelp, [shut up demon][demon]. Cuz I originally thought I'd do an hour for each, but then realized: _an hour seems really intimidating, but 30 min is simple_. Hopefully, some of those times I'll hit 30 min and be _dooooone_. But other times maybe I'll keep going. And that's great, too. Either way, at the end of the month I'll have spent at least a few hours on each thing and that helps me feel like progress is happening.
 
+![calendar for jan 2018 of the above categories drawn on handwriting paper](/images/jan18-calendar.JPG)
+
 ## Lighten up, still
 
 Look, I've still got a long way to go. I [beat myself up a lot][demon2], and feel terrible when I lose 2 hours playing Clash Royale or doing internet. I'm going to work on purging my phone of a lot of the time sucks, too. 
