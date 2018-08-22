@@ -29,7 +29,7 @@ And really, I don't have an answer, on the response to the response:
 >
 >it all seems SO IMPORTANT!
 
-But I guess I just have to do my best. Tonight, that's posting this; hopefully soon, it'll mean posting the [Janelle Monae][pynk] post I've been cooking for months now. 
+So I guess I just have to do my best. Tonight, that's posting this; hopefully soon, it'll mean posting the [Janelle Monae][pynk] post I've been cooking for months now. 
 
 [^1]: He plays _tack piano_. Go [look that up](https://goo.gl/E19kqc). It's awesome.
 
