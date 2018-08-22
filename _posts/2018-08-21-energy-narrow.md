@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Narrow Your Eyes
-excerpt: Maybe I can try a new approach.
+excerpt: Sometimes all it takes is pausing Queer Eye, putting on James Brooks, and thinking, hey, I should take out that experimental notebook that I've been playing around in.
 ---
 
-Sometimes all it takes is pausing Queer Eye, putting on [James Brooks][brooks] [^1]:, and thinking, hey, I should take out that experimental notebook that I've been playing in. 
+Sometimes all it takes is pausing Queer Eye, putting on [James Brooks][brooks] [^1]:, and thinking, hey, I should take out that experimental notebook that I've been around playing in. 
 
 ![journal page image that includes handwritten scrawl of the blockquote that is directly below the image](/images/082118-blockquote.jpg)
 
