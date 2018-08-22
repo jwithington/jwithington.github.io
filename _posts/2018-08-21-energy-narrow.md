@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Narrow Your Eyes
-excerpt: Sometimes all it takes is pausing Queer Eye, putting on James Brooks, and thinking, hey, I should take out that experimental notebook that I've been playing around in.
+excerpt: Sometimes all it takes is pausing _Queer Eye_, putting on James Brooks, and thinking, hey, I should take out that experimental notebook that I've been playing around in.
 ---
 
-Sometimes all it takes is pausing Queer Eye, putting on [James Brooks][brooks] [^1]:, and thinking, hey, I should take out that experimental notebook that I've been around playing in. 
+Sometimes all it takes is pausing _Queer Eye_, putting on [James Brooks][brooks] [^1]:, and thinking, hey, I should take out that experimental notebook that I've been around playing in. 
 
 ![journal page image that includes handwritten scrawl of the blockquote that is directly below the image](/images/082118-blockquote.jpg)
 
@@ -31,7 +31,7 @@ And really, I don't have an answer, on the response to the response:
 
 But I guess I just have to do my best. Tonight, that's posting this; hopefully soon, it'll mean posting the [Janelle Monae][pynk] post I've been cooking for months now. 
 
-[^1]: He plays _tack piano_. Go look that up. It's awesome.
+[^1]: He plays _tack piano_. Go [look that up](https://goo.gl/E19kqc). It's awesome.
 
 [andrea]: https://www.instagram.com/p/Bj_ZMthhdAz/?taken-by=jwithy
 [brooks]: https://app.vinylmeplease.com/classics/vol-15-james-booker-the-lost-paramount-tapes
