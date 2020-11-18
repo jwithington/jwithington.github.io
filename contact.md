@@ -4,7 +4,7 @@ title: Say Hello
 permalink: /contact/
 ---
 
-Hit me up at xequalswtf [at] gmail. 
+Hit me up at jwithington [at] gmail. 
 
 Although, I don't check that often. Try [@jwithy][tweet] instead.
 
