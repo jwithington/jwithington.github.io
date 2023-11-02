@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Debt Relief
-excerpt: I had used my 39th and 40th years to run up an unmanageable amount of credit card debt. Again.
+excerpt: I had used my 39th and 40th years to run up an unmanageable amount of credit card debt. <p>Again.</p>
 ---
 
 Around August of 2019, I realized I had used my 39th and 40th years to run up an unmanageable amount of credit card debt.
