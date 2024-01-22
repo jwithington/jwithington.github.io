@@ -33,13 +33,13 @@ And the person I was closest to in my life at the time responded with something 
 
 > Is it always going to be like this?
 
-It's hard to think of a time in my 40's that I was angrier with another person than than that moment.[^1]
+It's hard to think of a time in my 40's that I was angrier with another person than during that moment.[^1]
 
 Because yeah, for a while, it was going to fucking be like that.
 
 ---
 
-Well, it's now September 2024.[^2] I believe this month I'm going to finish paying it all off, nearly a year early.
+Well, it's now September 2023.[^2] I believe this month I'm going to finish paying it all off, nearly a year early.
 
 Student loans (LOL) are kicking back in (LOL fucking politicians), and so it's not that I'll have paid off All of My Debt!
 
