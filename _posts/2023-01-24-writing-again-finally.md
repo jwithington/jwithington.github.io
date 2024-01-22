@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Writing Again, finally
-excerpt: I had used my 39th and 40th years to run up an unmanageable amount of credit card debt. <p>Again.</p>
+excerpt: I'm writing again! How 'bout that?
 ---
 
 It's truly a [long time coming][hla], but I'm writing again! How 'bout that?
